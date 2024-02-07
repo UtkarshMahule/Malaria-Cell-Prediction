@@ -6,7 +6,7 @@ from keras.models import load_model
 
 
 #Loading the Model
-model = load_model(r"C:\Users\utkar\Downloads\Malaria cell Dataset\Malarial Cell Image Data\Malaria_cell_detection.h5")
+model = load_model(r"Malaria_cell_detection.h5")
 
 #Name of Classes
 CLASS_NAMES = ['Parisitized','Healthy']
