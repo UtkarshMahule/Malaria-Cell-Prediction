@@ -1,4 +1,4 @@
-streamlit==0.71.0
+streamlit
 Keras
 numpy
 tensorflow
